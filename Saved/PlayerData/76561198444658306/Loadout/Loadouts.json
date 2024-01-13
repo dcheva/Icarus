@@ -1,3 +1,101 @@
 {
-	"Loadouts": []
+	"Loadouts": [
+		{
+			"EnviroSuit":
+			{
+				"ItemStaticData":
+				{
+					"RowName": "None",
+					"DataTableName": "D_ItemsStatic"
+				},
+				"ItemDynamicData": [],
+				"ItemCustomStats": [],
+				"CustomProperties":
+				{
+					"StaticWorldStats": [],
+					"StaticWorldHeldStats": [],
+					"Stats": [],
+					"Alterations": [],
+					"LivingItemSlots": []
+				},
+				"DatabaseGUID": "",
+				"ItemOwnerLookupId": -1,
+				"RuntimeTags":
+				{
+					"GameplayTags": []
+				}
+			},
+			"Dropship":
+			{
+				"Name": "",
+				"Type": "DropshipType_UndefinedID",
+				"DropshipID": 0,
+				"InUse": false,
+				"TOP_Part":
+				{
+					"ItemStaticRow": "",
+					"Properties": [],
+					"Stats": [],
+					"ID": ""
+				},
+				"MID_Part":
+				{
+					"ItemStaticRow": "",
+					"Properties": [],
+					"Stats": [],
+					"ID": ""
+				},
+				"BTM_Part":
+				{
+					"ItemStaticRow": "",
+					"Properties": [],
+					"Stats": [],
+					"ID": ""
+				}
+			},
+			"MetaItems": [],
+			"AssociatedProspect":
+			{
+				"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77",
+				"ClaimedAccountID": "76561198444658306",
+				"ClaimedAccountCharacter": 0,
+				"ProspectDTKey": "Tier1_Forest_Exploration_0",
+				"FactionMissionDTKey": "OLY_Forest_Exploration",
+				"LobbyName": "",
+				"ExpireTime": -1,
+				"ProspectState": "Active",
+				"AssociatedMembers": [
+					{
+						"AccountName": "DEE",
+						"CharacterName": "DEE",
+						"UserID": "76561198444658306",
+						"ChrSlot": 0,
+						"Experience": 0,
+						"Status": "Prospect_Conifer",
+						"Settled": false,
+						"IsCurrentlyPlaying": false
+					}
+				],
+				"Cost": 0,
+				"Reward": 0,
+				"Difficulty": "Medium",
+				"Insurance": false,
+				"NoRespawns": false,
+				"ElapsedTime": 0,
+				"SelectedDropPoint": 0
+			},
+			"HostedBy":
+			{
+				"LastHostType": "LocalHost",
+				"SteamP2PHostId": "",
+				"DedicatedServerIP": "",
+				"CachedServerName": ""
+			},
+			"bInsured": false,
+			"bSettled": false,
+			"LoadoutClaimTime": 1705177289,
+			"ChrSlot": 0,
+			"Guid": "E8D9BAF141BE90EA3919DF804EEE03FB"
+		}
+	]
 }

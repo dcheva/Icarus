@@ -6,7 +6,7 @@
 			"Count": 30
 		}
 	],
-	"UnlockedFlags": [],
+	"UnlockedFlags": [ 5 ],
 	"Talents": [],
 	"NextChrSlot": 1,
 	"DataVersion": 4

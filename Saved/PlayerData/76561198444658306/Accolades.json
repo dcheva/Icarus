@@ -8,12 +8,48 @@
 			},
 			"TimeCompleted": "2024.01.13-18.02.23",
 			"ProspectID": ""
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "PickupBasicResource",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-20.26.06",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
 		}
 	],
 	"PlayerTrackers":
 	{
+		"(RowName=\"TimeSurvivedInForest\",DataTableName=\"D_PlayerTrackers\")": 565,
+		"(RowName=\"TimeSurvived\",DataTableName=\"D_PlayerTrackers\")": 565,
+		"(RowName=\"DistanceTraveledInForest\",DataTableName=\"D_PlayerTrackers\")": 361,
+		"(RowName=\"DistanceTraveled\",DataTableName=\"D_PlayerTrackers\")": 361,
+		"(RowName=\"FibreCollected\",DataTableName=\"D_PlayerTrackers\")": 401,
+		"(RowName=\"BerriesCollected\",DataTableName=\"D_PlayerTrackers\")": 8,
+		"(RowName=\"OxiteMined\",DataTableName=\"D_PlayerTrackers\")": 31,
+		"(RowName=\"VoxelsHit\",DataTableName=\"D_PlayerTrackers\")": 68,
+		"(RowName=\"LevelReached\",DataTableName=\"D_PlayerTrackers\")": 1,
+		"(RowName=\"VoxelsCompleted\",DataTableName=\"D_PlayerTrackers\")": 1,
+		"(RowName=\"StoneMined\",DataTableName=\"D_PlayerTrackers\")": 53
 	},
 	"PlayerTaskListTrackers":
 	{
+		"(RowName=\"VisitBiomesList\",DataTableName=\"D_PlayerTrackers\")":
+		{
+			"CompletedTasks": [
+				"Conifer"
+			]
+		},
+		"(RowName=\"PlantTypesCollectedList\",DataTableName=\"D_PlayerTrackers\")":
+		{
+			"CompletedTasks": [
+				"Coffee",
+				"Fiber",
+				"Bean",
+				"Berry",
+				"Yeast"
+			]
+		}
 	}
 }
