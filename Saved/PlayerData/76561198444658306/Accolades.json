@@ -1,0 +1,19 @@
+{
+	"CompletedAccolades": [
+		{
+			"Accolade":
+			{
+				"RowName": "TutorialCompleted",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-18.02.23",
+			"ProspectID": ""
+		}
+	],
+	"PlayerTrackers":
+	{
+	},
+	"PlayerTaskListTrackers":
+	{
+	}
+}
