@@ -1,0 +1,21 @@
+{
+	"BestiaryTracking": [
+		{
+			"BestiaryGroup":
+			{
+				"RowName": "Forest_Wolf",
+				"DataTableName": "D_BestiaryData"
+			},
+			"NumPoints": 10
+		},
+		{
+			"BestiaryGroup":
+			{
+				"RowName": "Horse",
+				"DataTableName": "D_BestiaryData"
+			},
+			"NumPoints": 14
+		}
+	],
+	"FishTracking": []
+}

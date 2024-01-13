@@ -1,0 +1,13 @@
+{
+	"UserID": "76561198444658306",
+	"MetaResources": [
+		{
+			"MetaRow": "Refund",
+			"Count": 30
+		}
+	],
+	"UnlockedFlags": [ 5 ],
+	"Talents": [],
+	"NextChrSlot": 1,
+	"DataVersion": 4
+}
