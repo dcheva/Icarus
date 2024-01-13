@@ -6,7 +6,7 @@
 				"RowName": "Forest_Wolf",
 				"DataTableName": "D_BestiaryData"
 			},
-			"NumPoints": 20
+			"NumPoints": 5
 		},
 		{
 			"BestiaryGroup":
@@ -14,7 +14,7 @@
 				"RowName": "Horse",
 				"DataTableName": "D_BestiaryData"
 			},
-			"NumPoints": 19
+			"NumPoints": 4
 		}
 	],
 	"FishTracking": []
