@@ -1,0 +1,124 @@
+{
+	"CompletedAccolades": [
+		{
+			"Accolade":
+			{
+				"RowName": "TutorialCompleted",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-18.02.23",
+			"ProspectID": ""
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "PickupBasicResource",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-20.26.06",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "DownedCount1",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-20.46.24",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "WoodCollected250",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-20.56.10",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "WoodCollected500",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-21.03.01",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "WoodCollected1000",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-21.51.06",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "WoodBuildingsCrafted20",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-21.59.24",
+			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		}
+	],
+	"PlayerTrackers":
+	{
+		"(RowName=\"TimeSurvivedInForest\",DataTableName=\"D_PlayerTrackers\")": 4631,
+		"(RowName=\"TimeSurvived\",DataTableName=\"D_PlayerTrackers\")": 4631,
+		"(RowName=\"DistanceTraveledInForest\",DataTableName=\"D_PlayerTrackers\")": 3351,
+		"(RowName=\"DistanceTraveled\",DataTableName=\"D_PlayerTrackers\")": 3351,
+		"(RowName=\"FibreCollected\",DataTableName=\"D_PlayerTrackers\")": 1304,
+		"(RowName=\"BerriesCollected\",DataTableName=\"D_PlayerTrackers\")": 12,
+		"(RowName=\"OxiteMined\",DataTableName=\"D_PlayerTrackers\")": 111,
+		"(RowName=\"VoxelsHit\",DataTableName=\"D_PlayerTrackers\")": 212,
+		"(RowName=\"LevelReached\",DataTableName=\"D_PlayerTrackers\")": 4,
+		"(RowName=\"VoxelsCompleted\",DataTableName=\"D_PlayerTrackers\")": 4,
+		"(RowName=\"StoneMined\",DataTableName=\"D_PlayerTrackers\")": 160,
+		"(RowName=\"BlueprintsUnlockedT1List\",DataTableName=\"D_PlayerTrackers\")": 10,
+		"(RowName=\"CriticalHits\",DataTableName=\"D_PlayerTrackers\")": 9,
+		"(RowName=\"WolfKills\",DataTableName=\"D_PlayerTrackers\")": 4,
+		"(RowName=\"CreatureKills\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"KnifeKills\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"MeleeKills\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"CreaturesSkinned\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"LeatherCollected\",DataTableName=\"D_PlayerTrackers\")": 77,
+		"(RowName=\"FurCollected\",DataTableName=\"D_PlayerTrackers\")": 12,
+		"(RowName=\"BoneCollected\",DataTableName=\"D_PlayerTrackers\")": 20,
+		"(RowName=\"MeatCollected\",DataTableName=\"D_PlayerTrackers\")": 16,
+		"(RowName=\"DownedCount\",DataTableName=\"D_PlayerTrackers\")": 1,
+		"(RowName=\"RespawnCount\",DataTableName=\"D_PlayerTrackers\")": 1,
+		"(RowName=\"TreesFelled\",DataTableName=\"D_PlayerTrackers\")": 9,
+		"(RowName=\"WoodCollected\",DataTableName=\"D_PlayerTrackers\")": 1367,
+		"(RowName=\"FoodConsumed\",DataTableName=\"D_PlayerTrackers\")": 19,
+		"(RowName=\"DeployablesCrafted\",DataTableName=\"D_PlayerTrackers\")": 3,
+		"(RowName=\"ThatchBuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 10,
+		"(RowName=\"BuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 30,
+		"(RowName=\"WoodBuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 20,
+		"(RowName=\"PrimeMeatCollected\",DataTableName=\"D_PlayerTrackers\")": 5
+	},
+	"PlayerTaskListTrackers":
+	{
+		"(RowName=\"VisitBiomesList\",DataTableName=\"D_PlayerTrackers\")":
+		{
+			"CompletedTasks": [
+				"Conifer"
+			]
+		},
+		"(RowName=\"PlantTypesCollectedList\",DataTableName=\"D_PlayerTrackers\")":
+		{
+			"CompletedTasks": [
+				"Coffee",
+				"Fiber",
+				"Bean",
+				"Berry",
+				"Yeast",
+				"Pumpkin",
+				"WildTea",
+				"Lily"
+			]
+		}
+	}
+}

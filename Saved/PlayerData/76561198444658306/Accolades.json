@@ -71,49 +71,106 @@
 			},
 			"TimeCompleted": "2024.01.13-23.01.19",
 			"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "WoodBuildingsCrafted50",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.13-23.36.09",
+			"ProspectID": "Dee Open"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "OxiteMined200",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.14-00.13.31",
+			"ProspectID": "Dee Open"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "DistanceTraveledForest10",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.14-00.15.42",
+			"ProspectID": "Dee Open"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "DistanceTraveled10",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.14-00.15.42",
+			"ProspectID": "Dee Open"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "KillFishWithBow",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.14-00.27.18",
+			"ProspectID": "Dee Open"
+		},
+		{
+			"Accolade":
+			{
+				"RowName": "FoodConsumed100",
+				"DataTableName": "D_Accolades"
+			},
+			"TimeCompleted": "2024.01.14-00.41.24",
+			"ProspectID": "Dee Open"
 		}
 	],
 	"PlayerTrackers":
 	{
-		"(RowName=\"TimeSurvivedInForest\",DataTableName=\"D_PlayerTrackers\")": 8017,
-		"(RowName=\"TimeSurvived\",DataTableName=\"D_PlayerTrackers\")": 8017,
-		"(RowName=\"DistanceTraveledInForest\",DataTableName=\"D_PlayerTrackers\")": 7661,
-		"(RowName=\"DistanceTraveled\",DataTableName=\"D_PlayerTrackers\")": 7661,
-		"(RowName=\"FibreCollected\",DataTableName=\"D_PlayerTrackers\")": 1640,
-		"(RowName=\"BerriesCollected\",DataTableName=\"D_PlayerTrackers\")": 12,
-		"(RowName=\"OxiteMined\",DataTableName=\"D_PlayerTrackers\")": 164,
-		"(RowName=\"VoxelsHit\",DataTableName=\"D_PlayerTrackers\")": 262,
-		"(RowName=\"LevelReached\",DataTableName=\"D_PlayerTrackers\")": 5,
-		"(RowName=\"VoxelsCompleted\",DataTableName=\"D_PlayerTrackers\")": 5,
-		"(RowName=\"StoneMined\",DataTableName=\"D_PlayerTrackers\")": 175,
-		"(RowName=\"BlueprintsUnlockedT1List\",DataTableName=\"D_PlayerTrackers\")": 18,
-		"(RowName=\"CriticalHits\",DataTableName=\"D_PlayerTrackers\")": 18,
-		"(RowName=\"WolfKills\",DataTableName=\"D_PlayerTrackers\")": 5,
-		"(RowName=\"CreatureKills\",DataTableName=\"D_PlayerTrackers\")": 12,
-		"(RowName=\"KnifeKills\",DataTableName=\"D_PlayerTrackers\")": 10,
-		"(RowName=\"MeleeKills\",DataTableName=\"D_PlayerTrackers\")": 10,
-		"(RowName=\"CreaturesSkinned\",DataTableName=\"D_PlayerTrackers\")": 12,
-		"(RowName=\"LeatherCollected\",DataTableName=\"D_PlayerTrackers\")": 171,
-		"(RowName=\"FurCollected\",DataTableName=\"D_PlayerTrackers\")": 27,
-		"(RowName=\"BoneCollected\",DataTableName=\"D_PlayerTrackers\")": 41,
-		"(RowName=\"MeatCollected\",DataTableName=\"D_PlayerTrackers\")": 30,
+		"(RowName=\"TimeSurvivedInForest\",DataTableName=\"D_PlayerTrackers\")": 12858,
+		"(RowName=\"TimeSurvived\",DataTableName=\"D_PlayerTrackers\")": 12858,
+		"(RowName=\"DistanceTraveledInForest\",DataTableName=\"D_PlayerTrackers\")": 11675,
+		"(RowName=\"DistanceTraveled\",DataTableName=\"D_PlayerTrackers\")": 11675,
+		"(RowName=\"FibreCollected\",DataTableName=\"D_PlayerTrackers\")": 3393,
+		"(RowName=\"BerriesCollected\",DataTableName=\"D_PlayerTrackers\")": 95,
+		"(RowName=\"OxiteMined\",DataTableName=\"D_PlayerTrackers\")": 255,
+		"(RowName=\"VoxelsHit\",DataTableName=\"D_PlayerTrackers\")": 392,
+		"(RowName=\"LevelReached\",DataTableName=\"D_PlayerTrackers\")": 7,
+		"(RowName=\"VoxelsCompleted\",DataTableName=\"D_PlayerTrackers\")": 8,
+		"(RowName=\"StoneMined\",DataTableName=\"D_PlayerTrackers\")": 255,
+		"(RowName=\"BlueprintsUnlockedT1List\",DataTableName=\"D_PlayerTrackers\")": 21,
+		"(RowName=\"CriticalHits\",DataTableName=\"D_PlayerTrackers\")": 28,
+		"(RowName=\"WolfKills\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"CreatureKills\",DataTableName=\"D_PlayerTrackers\")": 19,
+		"(RowName=\"KnifeKills\",DataTableName=\"D_PlayerTrackers\")": 13,
+		"(RowName=\"MeleeKills\",DataTableName=\"D_PlayerTrackers\")": 13,
+		"(RowName=\"CreaturesSkinned\",DataTableName=\"D_PlayerTrackers\")": 17,
+		"(RowName=\"LeatherCollected\",DataTableName=\"D_PlayerTrackers\")": 273,
+		"(RowName=\"FurCollected\",DataTableName=\"D_PlayerTrackers\")": 50,
+		"(RowName=\"BoneCollected\",DataTableName=\"D_PlayerTrackers\")": 63,
+		"(RowName=\"MeatCollected\",DataTableName=\"D_PlayerTrackers\")": 41,
 		"(RowName=\"DownedCount\",DataTableName=\"D_PlayerTrackers\")": 1,
 		"(RowName=\"RespawnCount\",DataTableName=\"D_PlayerTrackers\")": 1,
-		"(RowName=\"TreesFelled\",DataTableName=\"D_PlayerTrackers\")": 9,
-		"(RowName=\"WoodCollected\",DataTableName=\"D_PlayerTrackers\")": 1537,
-		"(RowName=\"FoodConsumed\",DataTableName=\"D_PlayerTrackers\")": 39,
-		"(RowName=\"DeployablesCrafted\",DataTableName=\"D_PlayerTrackers\")": 8,
+		"(RowName=\"TreesFelled\",DataTableName=\"D_PlayerTrackers\")": 21,
+		"(RowName=\"WoodCollected\",DataTableName=\"D_PlayerTrackers\")": 2983,
+		"(RowName=\"FoodConsumed\",DataTableName=\"D_PlayerTrackers\")": 112,
+		"(RowName=\"DeployablesCrafted\",DataTableName=\"D_PlayerTrackers\")": 16,
 		"(RowName=\"ThatchBuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 10,
-		"(RowName=\"BuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 40,
-		"(RowName=\"WoodBuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 30,
+		"(RowName=\"BuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 90,
+		"(RowName=\"WoodBuildingsCrafted\",DataTableName=\"D_PlayerTrackers\")": 80,
 		"(RowName=\"PrimeMeatCollected\",DataTableName=\"D_PlayerTrackers\")": 5,
-		"(RowName=\"ArrowsFired\",DataTableName=\"D_PlayerTrackers\")": 34,
-		"(RowName=\"BabyCreatureKills\",DataTableName=\"D_PlayerTrackers\")": 1,
-		"(RowName=\"StealthAttacks\",DataTableName=\"D_PlayerTrackers\")": 5,
-		"(RowName=\"ChamoisKills\",DataTableName=\"D_PlayerTrackers\")": 1,
-		"(RowName=\"BowKills\",DataTableName=\"D_PlayerTrackers\")": 2,
-		"(RowName=\"RangedKills\",DataTableName=\"D_PlayerTrackers\")": 2,
-		"(RowName=\"StealthCriticalKills\",DataTableName=\"D_PlayerTrackers\")": 1
+		"(RowName=\"ArrowsFired\",DataTableName=\"D_PlayerTrackers\")": 44,
+		"(RowName=\"BabyCreatureKills\",DataTableName=\"D_PlayerTrackers\")": 2,
+		"(RowName=\"StealthAttacks\",DataTableName=\"D_PlayerTrackers\")": 7,
+		"(RowName=\"ChamoisKills\",DataTableName=\"D_PlayerTrackers\")": 3,
+		"(RowName=\"BowKills\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"RangedKills\",DataTableName=\"D_PlayerTrackers\")": 6,
+		"(RowName=\"StealthCriticalKills\",DataTableName=\"D_PlayerTrackers\")": 2,
+		"(RowName=\"OlympusDynamicMissionsComplete\",DataTableName=\"D_PlayerTrackers\")": 1,
+		"(RowName=\"FishKills\",DataTableName=\"D_PlayerTrackers\")": 1,
+		"(RowName=\"RabbitKills\",DataTableName=\"D_PlayerTrackers\")": 1
 	},
 	"PlayerTaskListTrackers":
 	{
@@ -134,7 +191,10 @@
 				"Pumpkin",
 				"WildTea",
 				"Lily",
-				"Watermelon"
+				"Watermelon",
+				"Carrot",
+				"Cocoa",
+				"Corn"
 			]
 		}
 	}

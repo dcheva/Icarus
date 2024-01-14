@@ -56,11 +56,11 @@
 			"MetaItems": [],
 			"AssociatedProspect":
 			{
-				"ProspectID": "0B49767E46DA03CB290A5EAB8F788D77",
+				"ProspectID": "Dee Open",
 				"ClaimedAccountID": "76561198444658306",
 				"ClaimedAccountCharacter": 0,
-				"ProspectDTKey": "Tier1_Forest_Exploration_0",
-				"FactionMissionDTKey": "OLY_Forest_Exploration",
+				"ProspectDTKey": "Outpost006_Olympus",
+				"FactionMissionDTKey": "",
 				"LobbyName": "",
 				"ExpireTime": -1,
 				"ProspectState": "Active",
@@ -70,7 +70,7 @@
 						"CharacterName": "DEE",
 						"UserID": "76561198444658306",
 						"ChrSlot": 0,
-						"Experience": 0,
+						"Experience": 56880,
 						"Status": "Prospect_Conifer",
 						"Settled": false,
 						"IsCurrentlyPlaying": false
@@ -93,9 +93,9 @@
 			},
 			"bInsured": false,
 			"bSettled": false,
-			"LoadoutClaimTime": 1705177289,
+			"LoadoutClaimTime": 1705188278,
 			"ChrSlot": 0,
-			"Guid": "E8D9BAF141BE90EA3919DF804EEE03FB"
+			"Guid": "F34695B94A2840FD6B94EE89388480CD"
 		}
 	]
 }

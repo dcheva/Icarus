@@ -7,7 +7,12 @@
 		}
 	],
 	"UnlockedFlags": [ 5 ],
-	"Talents": [],
+	"Talents": [
+		{
+			"RowName": "Prospect_OLY_Forest_Exploration",
+			"Rank": 1
+		}
+	],
 	"NextChrSlot": 1,
 	"DataVersion": 4
 }
